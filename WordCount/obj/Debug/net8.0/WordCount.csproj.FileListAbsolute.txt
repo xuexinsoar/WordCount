@@ -1,0 +1,14 @@
+E:\GitTest\WordCount\WordCount\bin\Debug\net8.0\WordCount.exe
+E:\GitTest\WordCount\WordCount\bin\Debug\net8.0\WordCount.deps.json
+E:\GitTest\WordCount\WordCount\bin\Debug\net8.0\WordCount.runtimeconfig.json
+E:\GitTest\WordCount\WordCount\bin\Debug\net8.0\WordCount.dll
+E:\GitTest\WordCount\WordCount\bin\Debug\net8.0\WordCount.pdb
+E:\GitTest\WordCount\WordCount\obj\Debug\net8.0\WordCount.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitTest\WordCount\WordCount\obj\Debug\net8.0\WordCount.AssemblyInfoInputs.cache
+E:\GitTest\WordCount\WordCount\obj\Debug\net8.0\WordCount.AssemblyInfo.cs
+E:\GitTest\WordCount\WordCount\obj\Debug\net8.0\WordCount.csproj.CoreCompileInputs.cache
+E:\GitTest\WordCount\WordCount\obj\Debug\net8.0\WordCount.dll
+E:\GitTest\WordCount\WordCount\obj\Debug\net8.0\refint\WordCount.dll
+E:\GitTest\WordCount\WordCount\obj\Debug\net8.0\WordCount.pdb
+E:\GitTest\WordCount\WordCount\obj\Debug\net8.0\WordCount.genruntimeconfig.cache
+E:\GitTest\WordCount\WordCount\obj\Debug\net8.0\ref\WordCount.dll
